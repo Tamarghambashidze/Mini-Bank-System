@@ -1,0 +1,10 @@
+Bank System log
+
+
+New Account added: 2/10/2025 2:37:31 AM
+Account owner: Client: Tamar Ghambashidze
+
+New Transaction(Deposit): 2/10/2025 2:39:32 AM
+Amount: 100
+Account owners: 
+Client: Tamar Ghambashidze

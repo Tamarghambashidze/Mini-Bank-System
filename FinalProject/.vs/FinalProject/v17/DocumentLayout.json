@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\super\\Desktop\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_Q2OUL1L/BankSyStemDb/True/SqlTable/dbo.Accounts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1931E4C-14D7-498A-B9D9-D50584BEA77C}|FinalProject\\FinalProject.csproj|c:\\users\\super\\desktop\\finalproject\\finalproject\\services\\accountmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1931E4C-14D7-498A-B9D9-D50584BEA77C}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\accountmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1931E4C-14D7-498A-B9D9-D50584BEA77C}|FinalProject\\FinalProject.csproj|c:\\users\\super\\desktop\\finalproject\\finalproject\\services\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1931E4C-14D7-498A-B9D9-D50584BEA77C}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1931E4C-14D7-498A-B9D9-D50584BEA77C}|FinalProject\\FinalProject.csproj|c:\\users\\super\\desktop\\finalproject\\finalproject\\services\\clientmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1931E4C-14D7-498A-B9D9-D50584BEA77C}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\clientmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1931E4C-14D7-498A-B9D9-D50584BEA77C}|FinalProject\\FinalProject.csproj|c:\\users\\super\\desktop\\finalproject\\finalproject\\services\\filemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1931E4C-14D7-498A-B9D9-D50584BEA77C}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\filemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1931E4C-14D7-498A-B9D9-D50584BEA77C}|FinalProject\\FinalProject.csproj|c:\\users\\super\\desktop\\finalproject\\finalproject\\services\\transactionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1931E4C-14D7-498A-B9D9-D50584BEA77C}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\services\\transactionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Accounts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_Q2OUL1L/BankSyStemDb/True/SqlTable/dbo.Accounts.sql",
+              "ToolTip": "dbo.Accounts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-09T22:41:01.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountManagement.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\FinalProject\\FinalProject\\Services\\AccountManagement.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Services\\AccountManagement.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\FinalProject\\FinalProject\\Services\\AccountManagement.cs",
+              "RelativeToolTip": "FinalProject\\Services\\AccountManagement.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:39:06.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Analytics.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\FinalProject\\FinalProject\\Services\\Analytics.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Services\\Analytics.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\FinalProject\\FinalProject\\Services\\Analytics.cs",
+              "RelativeToolTip": "FinalProject\\Services\\Analytics.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:39:01.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientManagement.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\FinalProject\\FinalProject\\Services\\ClientManagement.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Services\\ClientManagement.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\FinalProject\\FinalProject\\Services\\ClientManagement.cs",
+              "RelativeToolTip": "FinalProject\\Services\\ClientManagement.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:38:55.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionManagement.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\FinalProject\\FinalProject\\Services\\TransactionManagement.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Services\\TransactionManagement.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\FinalProject\\FinalProject\\Services\\TransactionManagement.cs",
+              "RelativeToolTip": "FinalProject\\Services\\TransactionManagement.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:38:48.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileManagement.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\FinalProject\\FinalProject\\Services\\FileManagement.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Services\\FileManagement.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\FinalProject\\FinalProject\\Services\\FileManagement.cs",
+              "RelativeToolTip": "FinalProject\\Services\\FileManagement.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:38:26.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
